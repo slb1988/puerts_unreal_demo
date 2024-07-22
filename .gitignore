@@ -9,3 +9,6 @@ Cooked
 Crashes
 Logs
 Saved
+/Plugins/Puerts/ThirdParty/v8_9.4.146.24
+*.sln
+package-lock.json
